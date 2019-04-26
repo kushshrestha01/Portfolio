@@ -16,6 +16,6 @@
 
 3 - Start time: 1030
 
-4 - Finish time: _____
+4 - Finish time: 1210
 
-5 - Actual time needed to complete: _____
+5 - Actual time needed to complete: 1 hour 40 mins
