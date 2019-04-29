@@ -426,9 +426,14 @@ section, article {
     margin: 0 0 2em 0;
   }
 
-  .image.left {
+  /* .image.left {
     float: left;
     margin: 0 2em 2em 0;
+  } */
+
+  .row {
+    display: flex;
+    background-color: grey;
   }
 
   .image.centered {
@@ -762,7 +767,7 @@ button,
 
 /* Wide */
 
-@media screen and (min-width: 768px) and (max-width: 1880px) {
+@media screen and (min-width: 961px) and (max-width: 1880px) {
   /* Basic */
 
     body, input, textarea, select {
@@ -791,7 +796,7 @@ button,
 
 /* Normal */
 
-@media screen and (min-width: 768px) and (max-width: 1620px) {
+@media screen and (min-width: 961px) and (max-width: 1620px) {
 
   /* Main */
 
@@ -807,7 +812,7 @@ button,
 
 /* Narrow */
 
-@media screen and (min-width: px) and (max-width: 1320px) {
+@media screen and (min-width: 961px) and (max-width: 1320px) {
 
   /* Basic */
 

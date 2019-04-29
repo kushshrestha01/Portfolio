@@ -31,3 +31,15 @@
 4 - Finish time: 1130
 
 5 - Actual time needed to complete: 2.5 hours
+
+# Lab 05b
+# Feature#1
+1 - Number and name of feature: Feature #1 & Responsive design
+
+2 - Estimate of time needed to complete: 1.5 hour
+
+3 - Start time: 1130
+
+4 - Finish time: 
+
+5 - Actual time needed to complete: 
