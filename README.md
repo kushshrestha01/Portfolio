@@ -19,3 +19,15 @@
 4 - Finish time: 1210
 
 5 - Actual time needed to complete: 1 hour 40 mins
+
+# Lab 05a
+# Feature#1
+1 - Number and name of feature: Feature #1 & Add functionality
+
+2 - Estimate of time needed to complete: 2 hour
+
+3 - Start time: 0900
+
+4 - Finish time: 
+
+5 - Actual time needed to complete: 
