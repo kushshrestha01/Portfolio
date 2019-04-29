@@ -28,6 +28,6 @@
 
 3 - Start time: 0900
 
-4 - Finish time: 
+4 - Finish time: 1130
 
-5 - Actual time needed to complete: 
+5 - Actual time needed to complete: 2.5 hours
